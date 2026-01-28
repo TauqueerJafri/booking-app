@@ -1,5 +1,7 @@
 # TypeScript Practice
 
+This repository is for practice work.
+
 ## Objective
 
 Practice core TypeScript concepts:
